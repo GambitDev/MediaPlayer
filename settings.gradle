@@ -1,0 +1,3 @@
+rootProject.name='MediaPlayer'
+include ':app'
+include ':app:mediahistory'

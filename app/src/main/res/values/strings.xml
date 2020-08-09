@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MediaPlayer</string>
+    <string name="previous_song">Previous Song</string>
+    <string name="play_song">Play Song</string>
+    <string name="pause_song">Pause Song</string>
+    <string name="stop_song">Stop Song</string>
+    <string name="next_song">Next Song</string>
+    <string name="loop_playlist">Loop Playlist</string>
+    <string name="song_image">Song Image</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="time_ph">00:00 / 00:00</string>
+</resources>
